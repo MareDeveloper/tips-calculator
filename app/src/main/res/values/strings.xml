@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tips Calculator</string>
+    <string name="tip_precentage">Tip Precentage</string>
+    <string name="calculateTip">Calculate Tip</string>
+    <string name="enterBill">Enter Your Bill</string>
+    <string name="enter_bill">Enter your bill</string>
+</resources>
